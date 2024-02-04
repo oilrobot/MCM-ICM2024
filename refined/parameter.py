@@ -1,0 +1,3 @@
+CHECKPOINT_PATH = "./checkPoint/mat7/"
+IS_CREATE=0
+EPOCH_SIZE=10000
